@@ -6,5 +6,5 @@ Training will be defined by the next tech and services:
 * Github
 * Circle CI
 * Docker Hub
-* Tutum
+* Docker cloud
 * AWS
